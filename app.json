@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Ninho",
+    "slug": "ninho",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.fanapp.ninho",
+      "googleServicesFile": "./keys/GoogleService-Info-prod.plist",
+      "infoPlist": {}
+    },
+    "android": {
+      "package": "com.fanapp.ninho",
+      "googleServicesFile": "./keys/google-services-prod.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBmFwjN2RF1ZL-CQ7RWaZzH8QxhcfUaEAs"
+        }
+      },
+      "versionCode": 100
+    },
+    "version": "1.0.0",
+  }
+}

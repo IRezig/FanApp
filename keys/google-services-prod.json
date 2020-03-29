@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900781593527",
+    "firebase_url": "https://fan-app-dev.firebaseio.com",
+    "project_id": "fan-app-dev",
+    "storage_bucket": "fan-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900781593527:android:57c5218717d146ad388e32",
+        "android_client_info": {
+          "package_name": "com.fanapp.ninho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900781593527-q2sg4m14nn2b6drnqhfcvkmiofh5has6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLx7020WmhpWcY5zAuac7mcxMrLCtjLxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900781593527-q2sg4m14nn2b6drnqhfcvkmiofh5has6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900781593527-v7rh3vlfg7jfch1lhe2vqf4k8i6b2dgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fanapp.ninho"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

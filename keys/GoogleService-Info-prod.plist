@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>900781593527-v7rh3vlfg7jfch1lhe2vqf4k8i6b2dgk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.900781593527-v7rh3vlfg7jfch1lhe2vqf4k8i6b2dgk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBP_0dBa8DPi2ujFVMW8FGXJmgP0vOuUa4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>900781593527</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fanapp.ninho</string>
+	<key>PROJECT_ID</key>
+	<string>fan-app-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fan-app-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:900781593527:ios:554fd310d2a41716388e32</string>
+	<key>DATABASE_URL</key>
+	<string>https://fan-app-dev.firebaseio.com</string>
+</dict>
+</plist>
